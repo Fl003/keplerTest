@@ -5,6 +5,7 @@ import { taskMiddleware } from "react-palm/tasks";
 function appReducer() {
     return {};
 }
+
 const initialState = {};
 
 const keplerReducer = keplerGlReducer.initialState({
